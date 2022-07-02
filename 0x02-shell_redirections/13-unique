@@ -1,0 +1,3 @@
+TASK 13
+#!/bin/bash
+sort | uniq -u
